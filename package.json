@@ -1,0 +1,27 @@
+{
+  "name": "simple-program",
+  "version": "1.0.0",
+  "description": "A simple program collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QizhongFang/simple-program.git"
+  },
+  "keywords": [
+    "simple",
+    "program"
+  ],
+  "author": "Qizhong Fang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QizhongFang/simple-program/issues"
+  },
+  "homepage": "https://github.com/QizhongFang/simple-program#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
